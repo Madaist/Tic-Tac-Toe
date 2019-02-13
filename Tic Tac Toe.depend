@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550071215 source:c:\users\laptop hp\desktop\tic tac toe\main.cpp
+	<iostream>
+	<algorithm>
+	"Functions.hpp"
+
+1550071194 c:\users\laptop hp\desktop\tic tac toe\functions.hpp
+	<cstdlib>
+
